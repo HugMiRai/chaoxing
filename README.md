@@ -88,7 +88,7 @@
    
 - <details>
    <summary> 如何查看脚本执行情况？</summary>
-   注意： 为了实现某个链接/帐户访问出错时不中断程序继续尝试下一个，GitHub Actions 的状态将永远是“通过”（显示绿色的✔），请自行检查 GitHub      Actions 日志：依次点击<code>Actions</code>=><code>chaoxing</code>=><code>get_points</code>=><code>Qiandao</code>项的输出确定程序执行情况。
+   注意： 为了实现某个链接/帐户访问出错时不中断程序继续尝444试下一个，GitHub Actions 的状态将永远是“通过”（显示绿色的✔），请自行检查 GitHub      Actions 日志：依次点击<code>Actions</code>=><code>chaoxing</code>=><code>get_points</code>=><code>Qiandao</code>项的输出确定程序执行情况。
 	
    ![6D6681A2A552E03AE2AEC28B4542F217.jpg][1]
 
